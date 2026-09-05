@@ -9,6 +9,7 @@ I made this as my JRGB pins on my motherboard doesnt work properly. It could als
 ## PCB:
 ### Schematic:
 <img width="1141" height="595" alt="schematic" src="https://github.com/user-attachments/assets/0cdd5f79-707d-4804-8b55-f8601490ef58" />
+
 ### PCB:
 <img width="328" height="664" alt="pcb" src="https://github.com/user-attachments/assets/574fdab8-28ac-4485-a2a8-9a324fad8af1" />
 
