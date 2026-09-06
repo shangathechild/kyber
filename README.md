@@ -11,7 +11,8 @@ I made this as my JRGB pins on my motherboard doesnt work properly. It could als
 <img width="1141" height="595" alt="schematic" src="https://github.com/user-attachments/assets/0cdd5f79-707d-4804-8b55-f8601490ef58" />
 
 ### PCB:
-<img width="328" height="664" alt="pcb" src="https://github.com/user-attachments/assets/574fdab8-28ac-4485-a2a8-9a324fad8af1" />
+<img width="387" height="796" alt="image" src="https://github.com/user-attachments/assets/57f84c1c-2395-458b-a483-f0f762a7bf6c" />
+
 
 ## CAD
 <img width="1254" height="760" alt="cad1" src="https://github.com/user-attachments/assets/4a114756-ec2c-4ebc-87aa-417dc5919e4a" />
